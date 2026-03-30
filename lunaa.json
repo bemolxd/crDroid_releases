@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "bemolxd",
+            "oem": "realme",
+            "device": "GT Master Edition",
+            "filename": "",
+            "download": "",
+            "timestamp": 0,
+            "md5": "",
+            "sha256": "",
+            "size": 0,
+            "version": "12.8",
+            "buildtype": "Testing",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "",
+            "dt": "https://github.com/bemolxd/android_device_realme_lunaa",
+            "common-dt": "https://github.com/bemolxd/android_device_oneplus_sm8350-common",
+            "kernel": "https://github.com/bemolxd/android_kernel_oneplus_sm8350"
+        }
+    ]
+}
