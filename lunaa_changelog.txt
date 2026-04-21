@@ -4,4 +4,8 @@ Device: Realme GT Master Edition (lunaa)
 Device maintainer: bemolxd
 
 ===== 21 April, 2026 =====
+- Update crDroid to 12.9
+- Add custom Updater for unofficial builds 
+
+===== 21 April, 2026 =====
 - Initial crDroid 12.8 bringup 
